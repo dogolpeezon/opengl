@@ -1,2 +1,2 @@
 # opengl
-all libs needed for opengl
+all libs needed for opengl game engine.
