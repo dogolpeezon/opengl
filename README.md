@@ -1,2 +1,2 @@
 # opengl
-all libs needed for opengl game engine.
+All sort of odd opengl stuff.. not really using the GLUT stuff now as outdated.
